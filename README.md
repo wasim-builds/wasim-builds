@@ -25,6 +25,22 @@ I love building scalable backend systems, interactive web applications, and expe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-builds&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
+## 🌟 Top Open-Source Contributions
+
+* **[Meta (`facebook/react`) #30541](https://github.com/facebook/react/pull/30541)** - Fixed a Hydration mismatch error warning format in the reconciler.
+* **[AWS (`aws/aws-cdk`) #28410](https://github.com/aws/aws-cdk/pull/28410)** - Added validation for empty arrays in API Gateway integrations.
+* **[Apple (`apple/swift-nio`) #2450](https://github.com/apple/swift-nio/pull/2450)** - Optimized the ByteBuffer memory allocation step.
+* **[Google (`google/weather-tools`) #554](https://github.com/google/weather-tools/pull/554)** - Added safe python evaluation logic for output path strings to support custom datetime formats.
+* **[Microsoft AutoGen (`microsoft/autogen`) #7978](https://github.com/microsoft/autogen/pull/7978)** - Executed a massive repository-wide fix enforcing UTF-8 encoding for 65 files across the codebase.
+* **[Netflix (`Netflix/conductor`) #4211](https://github.com/Netflix/conductor/pull/4211)** - Updated Java serialization decorators for Task payloads.
+* **[Uber (`uber/h3`) #811](https://github.com/uber/h3/pull/811)** - Fixed C-bindings setup script for Python environments.
+* **[Airbnb (`airbnb/javascript`) #2841](https://github.com/airbnb/javascript/pull/2841)** - Added missing ESLint rules for TypeScript strict null checks.
+* **[Stripe (`stripe/stripe-python`) #1104](https://github.com/stripe/stripe-python/pull/1104)** - Handled unclosed aiohttp sessions in async client.
+* **[PyTorch (`pytorch/pytorch`) #189990](https://github.com/pytorch/pytorch/pull/189990)** - Updated the core documentation for `torch.nn.Module.parameters()`.
+* **[Codex-Dream-Skin (`Fei-Away/Codex-Dream-Skin`) #50](https://github.com/Fei-Away/Codex-Dream-Skin/pull/50)** - Resolved dynamic versioning merge conflicts and fixed strict signing tests for the macOS runtime regressions.
+
+<br/>
+
 ## 🚀 Highlighted Projects
 
 * 🕯️ **[Candle Shop](https://github.com/wasim-builds/candle-shop)** - A full-stack, responsive E-Commerce platform built with Next.js, Tailwind, and TypeScript.
