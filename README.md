@@ -11,11 +11,11 @@ I am a **Systems, Cloud, & AI Infrastructure Engineer** and prolific open-source
 I maintain a 100% clean CI and rigorous test-driven development (TDD) record across upstream enterprise repositories:
 
 ### ⚡ Microsoft Ecosystem (120+ PRs)
-* **[microsoft/vscode](https://github.com/microsoft/vscode) (50+ Core PRs — 170k+ ★):**
+* **[microsoft/vscode](https://github.com/microsoft/vscode) (53 Core PRs — 170k+ ★):**
+  - **[PR #349794](https://github.com/microsoft/vscode/pull/349794):** Added `type-hierarchy-sub` iconography for Model Routers in chat input to ensure visual consistency with model picker.
+  - **[PR #349791](https://github.com/microsoft/vscode/pull/349791):** Cleared stale editor text focus when window lacks OS focus (`--hidden-window`) by evaluating active element in `FocusTracker` and `AbstractCodeEditorService`.
   - **[PR #349743](https://github.com/microsoft/vscode/pull/349743):** Bounded `SharedWebContentExtractorService` image downloads with `AbortSignal.timeout` and cancellation tokens, eliminating unhandled download hangs.
   - **[PR #349680](https://github.com/microsoft/vscode/pull/349680):** Fixed native window blur modifier key stuck state and cleared `awaitingAltRelease` in MenuBar.
-  - **[PR #349091](https://github.com/microsoft/vscode/pull/349091):** Prevented host resource slot memory leaks on webview teardown by wiring `pagehide` unload signals to `RequestStore`.
-  - **[PR #349095](https://github.com/microsoft/vscode/pull/349095):** Eliminated Windows mapped drive directory locking during background updates.
 * **[microsoft/autogen](https://github.com/microsoft/autogen) (60+ PRs):**
   - **[PR #8428](https://github.com/microsoft/autogen/pull/8428):** Supported immutable sequence message collections (`Sequence[BaseChatMessage]`) in `BaseGroupChat` execution streams.
   - **[PR #8359](https://github.com/microsoft/autogen/pull/8359):** Fixed threadsafe future cancellation in `CancellationToken`.
